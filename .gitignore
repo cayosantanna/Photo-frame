@@ -1,0 +1,27 @@
+# Build output
+/target/
+
+# IDE/editor
+/.idea/
+*.iml
+/.project
+/.classpath
+/.settings/
+/.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Local uploads (keep folder, ignore contents)
+/uploads/
+!/uploads/.gitkeep
+
+# Maven wrapper (if added later)
+/mvnw
+/mvnw.cmd
+/.mvn/

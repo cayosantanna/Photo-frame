@@ -1,4 +1,4 @@
-# PhotoFrame RMI – Guia do Projeto (atualizado)
+# PhotoFrame RMI – Guia do Projeto 
 
 Sistema distribuído (Java RMI) com uploader web embutido para uma galeria colaborativa de fotos e vídeos curtos. Suporta imagens (JPEG/PNG) e reprodução de vídeos MP4 no viewer (via JavaFX Media).
 
